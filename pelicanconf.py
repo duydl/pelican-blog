@@ -11,7 +11,7 @@ TIMEZONE = 'Japan'
 
 DEFAULT_LANG = 'en'
 
-OUTPUT_PATH = 'duydl.github.io/'
+# OUTPUT_PATH = 'duydl.github.io/'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -24,7 +24,7 @@ ARTICLE_URL = 'articles/{slug}.html'
 ARTICLE_SAVE_AS = 'articles/{slug}.html'
 USE_FOLDER_AS_CATEGORY = True
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_RETENTION = [".git"]
+OUTPUT_RETENTION = [".git", "README.md"]
 USE_CDN = True
 
 # Blogroll

@@ -1,0 +1,6 @@
+[submodule "duydl.github.io"]
+	path = duydl.github.io
+	url = https://github.com/duydl/duydl.github.io
+[submodule "output"]
+	path = output
+	url = https://github.com/duydl/duydl.github.io.git
