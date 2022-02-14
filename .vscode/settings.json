@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": ["E:/Projects/pelican_dev",
+        "E:/Projects/pelican_dev/pelican-jupyter",
+        "E:/Projects/pelican_dev/liquid-tags/pelican/plugins",
+       ]
+}
